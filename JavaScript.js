@@ -26,5 +26,5 @@ function pickTask(){
 
 function handleClick(){
     const task = pickTask()
-document.querySelector(".genorated").innerHTML = `${task.title}: <br> ${task.task}`;
+document.querySelector(".generated").innerHTML = `${task.title}: <br> ${task.task}`;
 }
