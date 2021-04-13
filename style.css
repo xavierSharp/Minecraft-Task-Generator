@@ -1,0 +1,30 @@
+html{
+    font-family: "Poppins", sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+.genorated{
+    width: 400px;
+    height: 300px;
+    background: rgba(0, 0, 0, 0.35);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: url(https://i.pinimg.com/originals/2a/b1/c3/2ab1c37cfdff720c6de2ddb07328f145.jpg);
+    color: white;
+}
+button{
+    margin-top: 12px;
+    
+}
